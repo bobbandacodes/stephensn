@@ -1,5 +1,5 @@
-# Ignore sensitive configuration files
-config.php
+# Ignore sensitive configuration files (temporarily allowing for deployment)
+# config.php
 
 # Ignore uploads directory (will be created on server)
 assets/uploads/*
