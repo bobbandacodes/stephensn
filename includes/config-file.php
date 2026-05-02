@@ -10,13 +10,13 @@ define('CONTACT_EMAIL', "info@stephensn.local");
 
 // Database
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'u763598602_stephensn');
-define('DB_USER', 'u763598602_stephensn');
-define('DB_PASS', 'Stephen_SN_2026');
+define('DB_NAME', 'u763598602_sn');
+define('DB_USER', 'u763598602_sn');
+define('DB_PASS', 'StephenSN_2026');
 define('DB_CHARSET', 'utf8mb4');
 
 // Paths / URLs
-define('BASE_URL', '/https://plum-gaur-348103.hostingersite.com/');
+define('BASE_URL', 'https://plum-gaur-348103.hostingersite.com');
 define('UPLOAD_DIR', __DIR__ . '/../assets/uploads');
 define('UPLOAD_URL', BASE_URL . '/assets/uploads');
 
