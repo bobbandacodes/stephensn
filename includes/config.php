@@ -13,10 +13,10 @@ define('CONTACT_EMAIL', "info@plum-gaur-348103.hostingersite.com");
 
 // Database - Hostinger Settings
 define('DB_HOST', 'localhost'); // Hostinger uses localhost
-define('DB_NAME', 'u763598602_stephensn'); // Actual database name
-define('DB_USER', 'u763598602_stephensn'); // Actual database user
-define('DB_PASS', 'Stepehen_SN_2026'); // Actual database password
-define('DB_CHARSET', 'utf8mb4');
+define('DB_NAME', 'u763598602_sn'); // Correct database name
+define('DB_USER', 'u763598602_sn'); // Correct database user
+define('DB_PASS', 'StephenSN_2026'); // Correct database password
+define('DB_CHARSET', 'utf8mb4'); // Hostinger compatible charset
 
 // Paths / URLs - Production
 define('BASE_URL', 'https://plum-gaur-348103.hostingersite.com'); // Actual domain
